@@ -1,0 +1,50 @@
+html, body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+.top_header {
+    background-color: #252525;
+}
+
+.menu_item {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.brand {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.main_content {
+    max-width: 450px;
+    margin: auto;
+}
+
+.box {
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+}
+
+.image {
+    width: 100%;
+}
+
+.button {
+    color: black;
+    background-color: lightgrey;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.bottom_footer {
+    background-color: rgb(224, 224, 224);
+    padding: 20px;
+    text-align: center;
+}
